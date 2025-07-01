@@ -287,7 +287,6 @@ This EA is provided for educational purposes. Past performance does not guarante
 
 ---
 
-**License**: MIT LINCENSE
 **Author**: Christley Olubela
 **Version**: 1.0  
 **Last Updated**: 01/07/2025
