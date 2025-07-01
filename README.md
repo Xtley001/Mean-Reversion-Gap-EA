@@ -1,4 +1,4 @@
-# Multi-Symbol Trading EA Documentation
+# Mean-Reversion-Gap-EA
 
 ## Overview
 
